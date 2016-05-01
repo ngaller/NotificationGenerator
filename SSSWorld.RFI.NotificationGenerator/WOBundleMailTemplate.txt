@@ -1,0 +1,10 @@
+﻿Dear {0},
+
+Your Work Order bundle has been generated and can be downloaded at:
+{1}
+
+Please be sure to download and print this document promptly as the link 
+will expire in 3 days.
+
+Regards,
+RF Installation
